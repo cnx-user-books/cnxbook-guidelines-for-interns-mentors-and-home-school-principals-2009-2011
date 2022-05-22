@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Interim Report Form for the Internship</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c223ad9c-679a-492c-ba7d-aedb549110ef</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="element-343"><media id="idm9658864" alt=""><image src="../../media/logo.gif" mime-type="image/gif"/></media>
+
+ </para><note id="idp52848">This module has been peer-reviewed, accepted, and sanctioned by the National Council of Professors of Educational Administration (NCPEA) as a scholarly contribution to the knowledge base in education administration. In addition to publication in the Connexions Content Commons, this module is part of a larger published Collection entitled <link document="col10609">Guidelines for Interns, Mentors, and Home School Principals, 2009-2011, </link> and is also published in the <link url="http://ijelp.expressacademic.org">International Journal of Educational Leadership Preparation.</link></note><section id="element-205"><title>Interim Report Form for the Internship</title><para id="element-608">
+
+</para></section><table id="id3417604" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Name:</entry>
+            <entry/>
+            <entry>Date:</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Mentor(s):</entry>
+            <entry namest="c2" nameend="c4"/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id3428408">Please copy and complete this form. Place it after the list of objectives in your log. </para>
+    <list list-type="enumerated" id="id3428412">
+      <item>Record the number of clock hours spent on your internship up to the date this form was completed. Do not estimate. Take exact numbers from your log.</item>
+    </list>
+    <table id="id3521393" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entrytbl namest="c1" nameend="c2" cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Site</entry>
+                  <entry>School name</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </entrytbl>
+            <entry>Cumulative clock hours</entry>
+          </row>
+          <row>
+            <entry>Primary internship site </entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Home school </entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Other school level 1</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Other school level 2</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Central office</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Career and technical (vocational)</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Schools in diverse settings</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Agency that works with children or families</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Other site(s) (List each.)</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Total clock hours </entry>
+            <entry>XXXXXXXXXXX</entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>
